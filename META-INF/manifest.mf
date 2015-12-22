@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: P847ZaxXRY8xBPLx14yQ2Q==
+SHA1-Digest: mz2PNaXg2c8QsYUxcCoXSyLDDSo=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4JmQn1glwmrwBO+JvXvFog==
+SHA1-Digest: /Y8ZmWG6BCVPW7+ABnrdx/x1Ic4=
+
+Name: chrome/scrapbook.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a63WfmSX9KhTVXYn0Ko3kg==
+SHA1-Digest: /GkTo80k+h6qwYsCTfV4HzEpKEs=
+
+Name: defaults/preferences/scrapbook-prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zZGfPVp1OsRGjyySNnc9qQ==
+SHA1-Digest: bB1bivr+PTTfxK418vF6fCdWEz0=
+
+Name: sourcecode/readme.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wHYl7I3lAP8NUrN8LD4iGA==
+SHA1-Digest: 80cv2hHoKU61eETkiXVJXgEP4hc=
+
